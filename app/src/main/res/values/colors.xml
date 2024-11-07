@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#673AB7</color>
+    <color name="blue">#2196F3</color>
+    <color name="principal_sp">#FF5722</color>
+    <color name="principal_p">#9C3515</color>
+    <color name="secundario_sp">#FFC107</color>
+    <color name="secundario_p">#9D7706</color>
+    <color name="terciario_sp">#FFFFFF</color>
+    <color name="terciario_p">#797979</color>
+    <color name="borde_sp">#4CAF50</color>
+    <color name="borde_p">#FF0000</color>
+</resources>
